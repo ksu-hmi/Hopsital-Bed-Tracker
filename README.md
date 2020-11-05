@@ -1,2 +1,2 @@
-# Ambulance-Tracker
-Application that will allow patients and their family members to locate ambulance available in the vicinity and send a pickup request to the driver. 
+# Hospital Bed Tracker
+Application that will  assist in keeping track of beds available for the patients in the nearest hopsital location.
