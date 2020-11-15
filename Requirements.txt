@@ -1,0 +1,6 @@
+Installations performed for this project
+
+Django==3.0.8
+django-heroku==0.3.1
+django-import-export==2.2.0
+djangorestframework==3.11.0
