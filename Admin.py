@@ -8,9 +8,9 @@ import datetime
 admin.site.unregister(Group)
 admin.site.unregister(User)
 # Register your models here.
-admin.site.site_header = "Ahalya"
+admin.site.site_header = "Admins"
 
-admin.site.site_title = "Ahalya"
+admin.site.site_title = "Admins"
 
 admin.site.index_title = "Hospital Administration"
 
