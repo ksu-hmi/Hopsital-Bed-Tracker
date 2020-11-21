@@ -3,7 +3,7 @@ An application that will assist in keeping track of beds available for patients 
 
 # Created By
 Alina Panjwani,
-Monica Vickery
+Monica Vickery Fall 2020
 
 # Installation
  
