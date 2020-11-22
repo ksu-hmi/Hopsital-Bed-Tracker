@@ -11,4 +11,5 @@ Uploaded relevant files for Python code - Done <br/>
 Added a run.py file to install all the requirements - Done <br/>
 Ran Settings.py file successfully -Done <br/>
 Partially corrected wsgi.py file - Done <br/>
+Tailored various codes to update passwords, time zone, etc. - Done <br/>
 
