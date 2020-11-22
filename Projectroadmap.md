@@ -1,4 +1,5 @@
 Pre-requisites
+
 Finalized the project and submitted in Teams - Done
 Joined our class organization (KSU-HMI) in Github - Done
 Created Hopsital-Bed-Tracker repository and provided admin access to both - Done
