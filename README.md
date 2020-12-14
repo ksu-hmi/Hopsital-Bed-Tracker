@@ -6,14 +6,14 @@ An application that will assist in keeping track of beds available for patients 
 
 # Process
 The application will have following three main components:
-1. Administrator: They will have ability to create, update, read and delete data in the appication. 
+1. Administrator: 
+  They will have the ability to create, update and delete hospital and nurses in the application.​
+  They will configure permissions for nurses and other users.
 2. Nurses: They will be reponsible for adding details about the beds.
 3. Frontline staff: They will run reports to keep track of beds available in the hospital
 
 # Installation
-[Place holder]
  
-
 # Description
  The Hospital Bed Tracker application will be a web based application and user friendly to all smartphone or tablet devices.
 
