@@ -11,6 +11,7 @@ The application will have following three main components:
 3. Frontline staff: They will run reports to keep track of beds available in the hospital
 
 # Installation
+[Place holder]
  
 
 # Description
